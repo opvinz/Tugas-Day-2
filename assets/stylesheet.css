@@ -1,0 +1,78 @@
+
+
+.input_1{
+    background-color:white;
+    color: black;
+    /* font-weight: bold;  */
+    font-size: 24px; 
+    text-align: center; 
+    font-family:'Trebuchet MS';
+}
+
+
+html{padding: 0;margin: 0;}
+body {
+    /* font-family: "Avenir Next"; */
+    padding: 0;margin: 0;
+  }
+
+  
+  li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: #26d0c9;
+    color: #fff;
+    height: 90px;
+  }
+  
+  .header-logo {
+    float: left;
+    padding: 20px 40px;
+  }
+  
+  .header-list li {
+    float: left;
+    padding: 33px 20px;
+  }
+  
+  .main {
+      padding-top: 24px ;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border: 3px solid green;
+    }
+    .formstyle{
+      width: 200px;
+      background-color: #dfdedf;
+      padding: 10px;
+      margin-top: 5px;
+      font-size: 15px;
+      border: 1px solid #dbdbdb;
+      border-radius: 5px;
+  }
+  
+  .contact-form {
+    padding-top: 10px;
+  }
+  
+  .contact-submit{float: left;
+    font-size: 15px;
+    padding: 15px;}
+
+    .contact-submit{
+      color: white;
+      background-color: orange;
+      padding: 10px 25px;
+      border: none;
+      border-radius: 5px;
+      margin-top: 1px;
+      font-size: 15px;
+  }
+
+
+  
+
+  
